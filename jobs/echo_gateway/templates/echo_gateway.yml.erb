@@ -8,6 +8,9 @@ service:
   description: 'Echo Service'
   plans: ['free']
   tags: ['echo', 'echo-1.0', 'demo', 'echobased']
+  supported_versions: ['1.0']
+  version_aliases:
+    'current': '1.0'
 <% if properties.echo_gateway.ip_route %>
 ip_route: <%= properties.echo_gateway.ip_route %>
 <% end %>
