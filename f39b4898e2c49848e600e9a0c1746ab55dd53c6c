@@ -1,0 +1,8 @@
+Code-Review+2: Nicholas Kushmerick <nicholask@vmware.com>
+Verified+1: Nicholas Kushmerick <nicholask@vmware.com>
+Code-Review+1: Frank Lu <flu@vmware.com>
+Submitted-by: Jeff Li <jeffli@rbcon.com>
+Submitted-at: Wed, 16 Jan 2013 01:30:38 +0000
+Reviewed-on: http://reviews.cloudfoundry.org/13128
+Project: vcap-services-sample-release
+Branch: refs/heads/master
